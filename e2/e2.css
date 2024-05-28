@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 #main_header {
-    background-color: #5b37db;
+    background-color: #61a6ab;
     position: fixed;
     height: 5vh;
     padding: 1rem 2rem;
@@ -37,8 +37,10 @@
 }
 
 #main-header nav a {
-    color: cadetblue;
+    color: #020305;
     text-decoration: none;
+    background-color: #61a6ab;
+    border: 0;
 }
 
 #main-header nav img {
@@ -66,3 +68,4 @@
     height: 30px;
     object-fit: contain;
 }
+
